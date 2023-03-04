@@ -1,5 +1,4 @@
 count= document.querySelector('[for="countdown"]')
-// display1=document.querySelector('[for="display"]')
 c=10;
 setTimeout(()=>{
     count.innerText= c;
